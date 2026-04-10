@@ -10,8 +10,8 @@ var addressPoints = [
     10.7389701
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Against the Equivalence of Actualist and Potentialist Set Theories<br />University of Turin; Turin, Italy",
+    45.0677551,
+    7.6824892
   ]
 ];
