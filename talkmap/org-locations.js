@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Against the Equivalence of Potentialist and Actualist Set Theories<br />University of Reading; Reading, UK",
+    51.4514953,
+    -0.9836342
   ],
   [
     "On the Equivalence of Actualist and Potentialist set theories<br />University of Oslo; Oslo, Norway",
