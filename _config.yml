@@ -159,12 +159,6 @@ analytics:
     tracking_id: "G-979CQLC03H"
     anonymize_ip: true
 
-# Analytics
-analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
-    tracking_id          :
-
 
 # Reading Files
 include:
