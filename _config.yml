@@ -154,7 +154,7 @@ social:
 
 
 analytics:
-  provider: "google-gtag"
+  provider: "google-analytics-4"
   google:
     tracking_id: "G-979CQLC03H"
     anonymize_ip: true
