@@ -1,8 +1,7 @@
 ---
 title: "Aristotelian Potentialism and Kripke Models"
-collection: contributed talks
-type: "Annual Toronto Graduate Philosophy Conference"
-permalink: /talks/2023-11-04-talk-3
+collection: talks
+type: "Annual Toronto Graduate Philosophy Conference 2023"
 venue: "University of Toronto"
 date: 2023-11-04
 location: "Toronto, Canada"

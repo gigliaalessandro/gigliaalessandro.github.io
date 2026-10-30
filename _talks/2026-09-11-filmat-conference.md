@@ -1,11 +1,10 @@
 ---
 title: "Against the Equivalence of Potentialist and Actualist Set Theories"
-collection: contributed talks
-type: "FILMAT Conference 2026"
+collection: talks
+type: "FilMat Conference 2026"
 venue: "University of Bologna"
 date: 2026-09-11
 location: "Bologna, Italy"
 ---
 
 [More information here](https://filmatnetwork.com/2026/03/15/filmat-conference-2026/)
-
