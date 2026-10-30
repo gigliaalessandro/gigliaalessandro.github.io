@@ -5,13 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-## Papers under review
+## Papers
 
 **On Variable Quantities and the Domain Principle**  
-Under review
+In progress
 
 **Against the Equivalence of Potentialist and Actualist Set Theories**  
-Under review
+In progress
 
 ## Theses
 
