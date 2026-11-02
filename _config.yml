@@ -154,7 +154,7 @@ social:
 
 
 analytics:
-  provider: "google-analytics-4"
+  provider: false # Google Analytics disabled (it set cookies without consent)
   google:
     tracking_id: "G-979CQLC03H"
     anonymize_ip: true
